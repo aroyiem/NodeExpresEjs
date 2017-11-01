@@ -63,7 +63,14 @@ Normally when you are working in a nodejs application, you need to restart teh a
 
 >DEBUG=express_example:* nodemon
 
+For windows 
+--------------
+install dependencies:
+  > cd NodeExpressEjs && npm install
 
+run the app:
+  > SET DEBUG=nodeexpressejs:* & npm start
+  > SET DEBUG=nodeexpressejs:* & nodemon
 
 
 
