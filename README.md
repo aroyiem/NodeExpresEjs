@@ -72,7 +72,17 @@ run the app:
   > SET DEBUG=nodeexpressejs:* & npm start
   > SET DEBUG=nodeexpressejs:* & nodemon
 
+node promise vs callback
+-------------------------------
+https://scotch.io/tutorials/javascript-promises-for-dummies
 
+mean stack
+-------------
+http://jasonwatmore.com/post/2015/12/09/mean-stack-user-registration-and-login-example-tutorial
+
+node mongoose 
+-----------------
+https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications
 
 
 
